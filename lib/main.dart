@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:geo_telepho/views/map_page.dart';
+import 'package:geo_telepho/ui/views/map_page.dart';
 
 void main() {
   runApp(const MainApp());
